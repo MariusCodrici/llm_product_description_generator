@@ -10,11 +10,11 @@ also install https://lmstudio.ai and then load the "lmstudio-community/gemma-2-9
 
 Example of generated product description
 Params:
-	Product brand and model: ACTGymFull T4
-	 Product type: Smartwatch
-	 Key features: pedometer, sleep monitoring, heartrate
-	 Target Audience: teenagers and elderly people
-	 Tone: enthusiastic
+ Product brand and model: ACTGymFull T4
+ Product type: Smartwatch
+ Key features: pedometer, sleep monitoring, heartrate
+ Target Audience: teenagers and elderly people
+ Tone: enthusiastic
 
 Result:
 
